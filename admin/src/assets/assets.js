@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://foodvilla-backend-i8kq.onrender.com
+export const url = 'https://foodvilla-backend-i8kq.onrender.com'
