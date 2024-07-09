@@ -11,7 +11,7 @@ const StoreContextProvider = (props) => {
 
     const [cartItems, setCartItems] = useState({})
 
-    let url = "http://localhost:4000"
+    let url = "https://foodvilla-backend-i8kq.onrender.com"
 
     const [token, setToken] = useState("")
 
